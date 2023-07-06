@@ -1,0 +1,2 @@
+python run.py -e -l layouts/l6.npy -s 20
+python run.py -e -l layouts/l6.npy -s 20 --alg astar
